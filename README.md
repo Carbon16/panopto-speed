@@ -4,7 +4,7 @@ PanoptoSpeed is a firefox add-on that lets you play videos at whatever speed you
 
 ## Installation
 
-Firefox: 
+Firefox: https://addons.mozilla.org/en-US/firefox/addon/hyperpanoptospeed/
 
 ## Usage
 
