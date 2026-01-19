@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
       msg = "";
     }
 
-    display.textContent = `${displaySpeed}x — ${msg}`;
+    display.textContent = `${displaySpeed}x - ${msg}`;
 
     // Send the script to the active tab
     browser.tabs.query({ active: true, currentWindow: true }).then((tabs) => {
